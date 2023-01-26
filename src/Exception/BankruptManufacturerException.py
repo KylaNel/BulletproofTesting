@@ -1,0 +1,2 @@
+class BankruptManufacturerException(Exception):
+    pass

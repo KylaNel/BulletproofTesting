@@ -1,0 +1,2 @@
+class ManufacturerNotFoundException(Exception):
+    pass
